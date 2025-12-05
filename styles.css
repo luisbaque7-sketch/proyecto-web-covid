@@ -46,3 +46,9 @@ footer {
     padding: 15px;
     margin-top: 30px;
 }
+
+.imagen-principal {
+    width: 300px;     /* tamaño de la imagen */
+    display: block;
+    margin: 20px auto; /* centrado */
+}
